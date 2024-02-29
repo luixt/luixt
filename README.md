@@ -1,13 +1,11 @@
 ```java
-System.out.println("WELCOME!");
-System.out.println("I'm Luis Delgado");
+System.out.println("WELCOME, I'm Luis Delgado!");
 ```
 
-<h1 align="center">WELCOME! </h1>
-<h1 align="center">I'm Luis Delgado</h1>
+<h1 align="center">WELCOME, I'M LUIS DELGADO!</h1>
 
 ```py
-#  How it feels when...
+#  How the output feels when...
 print(Hello World)
 ```
 <p align="center">
