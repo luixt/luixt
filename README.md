@@ -4,7 +4,7 @@ import java.util.gitHubProfile;
 public class WelcomeProgram {
 
   public static void main(String[] args){
-    welcome("Luis Delgado");
+    welcome("LUIS DELGADO");
     new gitHubProfile();
   }
   
