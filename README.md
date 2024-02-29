@@ -1,5 +1,17 @@
 ```java
-System.out.println("WELCOME, I'm Luis Delgado!");
+import java.util.gitHubProfile;
+
+public class WelcomeProgram {
+
+  public static void main(String[] args){
+    welcome("Luis Delgado");
+    new gitHubProfile();
+  }
+  
+  public static void welcome(String name){
+    System.out.println("WELCOME, I'M " + name + "!");
+  }
+}
 ```
 
 <h1 align="center">WELCOME, I'M LUIS DELGADO!</h1>
